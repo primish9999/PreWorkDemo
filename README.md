@@ -1,5 +1,5 @@
 # PreWorkDemo
-# PreWorkDemo
+
 ## PreWork
 
 ### The app changes the color of the text upon clicking on the button
