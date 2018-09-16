@@ -33,9 +33,11 @@
                                 <color key="backgroundColor" red="0.82371473761015035" green="0.82371473761015035" blue="0.82371473761015035" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                             </view>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qvE-AV-6d3">
-                                <rect key="frame" x="115" y="532" width="144" height="30"/>
+                                <rect key="frame" x="115" y="501" width="144" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Change Text Color"/>
+                                <state key="normal" title="Change Text Color">
+                                    <color key="titleColor" red="0.02018229166666663" green="0.02018229166666663" blue="0.02018229166666663" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                </state>
                                 <connections>
                                     <action selector="didTapButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="1ek-oz-Wlg"/>
                                 </connections>
